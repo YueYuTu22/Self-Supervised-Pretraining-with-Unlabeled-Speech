@@ -16,3 +16,6 @@ We have already created a pipeline:
 
 - [`facebook/wav2vec2-base`](https://huggingface.co/facebook/wav2vec2-base)  
   - Quantized version: **fp16**
+
+  ### Update
+You need to download Project7_kinyawannda.ipynb first, and then open it in Colab or Jupyter.
